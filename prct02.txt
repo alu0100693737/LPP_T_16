@@ -1,0 +1,27 @@
+1.Compilacion e Interpretacion.
+
+La compilacion es un proceso por el que se traduce un programa escrito en un lenguaje de
+alto nivel a lenguaje a bajo nivel para que cuando se quiera ejecutar, la maquina sea capaz de 
+entenderlo.
+
+La interpretacion es el proceso de ejecutar un programa en alto nivel traduciendolo a la vez linea
+por linea. 
+
+Ejemplo:
+
+Ruby es un lenguaje orientado a objetos interpretado.
+C++ es un lenguaje imperativo y orientado a objetos compilado.
+
+2. Diferencias entre helloWorld.sh y helloWorld.rb
+
+helloWorld.sh utiliza el lenguaje bash y helloWorld.rb utiliza Ruby.
+
+HelloWorld.sh contiene:
+
+#! /bin/sh
+#Bourne Shell
+echo hello, world
+
+La primera linea indica el interprete de bash para que se pueda ejecutar helloWorld.sh sin 
+especificar el interprete (bash).
+

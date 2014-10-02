@@ -1,0 +1,13 @@
+Compilacion e Interpretacion.
+
+La compilacion es un proceso por el que se traduce un programa escrito en un lenguaje de
+alto nivel a lenguaje a bajo nivel para que cuando se quiera ejecutar, la maquina sea capaz de 
+entenderlo.
+
+La interpretacion es el proceso de ejecutar un programa en alto nivel traduciendolo a la vez linea
+por linea. 
+
+Ejemplo:
+
+Ruby es un lenguaje orientado a objetos interpretado.
+C++ es un lenguaje imperativo y orientado a objetos compilado.
